@@ -6,6 +6,7 @@ body {
 
 p {
     font-size: 20px;
+    text-align: center;
 }
 
 p.small {
@@ -19,6 +20,7 @@ a:active,
 a.active {
     outline: 0;
     color: #0D91C9;
+
 }
 
 h1,
@@ -315,7 +317,7 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #18bc9c;
+    color: #8DDDFF;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -324,6 +326,7 @@ form .row:first-child .floating-label-form-group {
 
 footer {
     color: #fff;
+
 }
 
 footer h3 {
@@ -445,4 +448,14 @@ footer .footer-below {
 .portfolio-modal .modal-backdrop {
     display: none;
     opacity: 0;
+}
+
+li {text-align: left;
+    font-family: Helvetica;
+    font-size: 19px;
+
+}
+h4{
+  text-align: left;
+
 }
